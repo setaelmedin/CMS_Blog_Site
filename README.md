@@ -1,4 +1,4 @@
-Login for admin:
+Login for admin ->
 username: elmedin
 password: elmedin
 
